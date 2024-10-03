@@ -1,0 +1,24 @@
+body {
+  font-family: Inter;
+  display: flex;
+  gap: 10px;
+}
+div {
+  border: 3px solid #000;
+  background-color: #c8f54d;
+  border-radius: 0px 0px 125px 0px;
+  height: 403px;
+  width: 579px;
+}
+h1 {
+  color: #253008;
+  font-size: 38px;
+  font-weight: 700;
+  margin-left: 23px;
+}
+img {
+  border-radius: 0px 0px 105px 0px;
+  height: 299px;
+  width: 534px;
+  margin: -15px 23px 23px 23px;
+}
